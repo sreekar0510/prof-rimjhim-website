@@ -1,0 +1,25 @@
+import Container from "../../components/Container";
+
+export default function About() {
+  return (
+    <Container>
+      <h1>About</h1>
+
+      <p>
+        Prof. Rimjhim is a faculty member at the National Institute of Technology
+        Warangal. Her academic interests lie in areas of computer science with a
+        focus on data-driven and analytical approaches.
+      </p>
+
+      <p>
+        She is involved in teaching, research, and mentoring students at
+        undergraduate and postgraduate levels.
+      </p>
+
+      <p>
+        This website provides information about her academic background,
+        research activities, and professional contributions.
+      </p>
+    </Container>
+  );
+}
